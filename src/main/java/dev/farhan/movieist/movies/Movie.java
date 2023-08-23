@@ -1,5 +1,6 @@
 package dev.farhan.movieist.movies;
 
+import dev.farhan.movieist.reviews.Review;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
